@@ -1,3 +1,4 @@
 selanjutnya:
 - telor
+- timun
 - tomat
