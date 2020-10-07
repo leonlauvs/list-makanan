@@ -1,2 +1,2 @@
 # list-makanan
-daftar makanan
+Ini adalah daftar makanan yang menurut penulis enak
