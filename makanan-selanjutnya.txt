@@ -1,4 +1,7 @@
 selanjutnya:
 - telor
+ * dadar
+ * ceplok
 - timun
 - tomat
+- durian
